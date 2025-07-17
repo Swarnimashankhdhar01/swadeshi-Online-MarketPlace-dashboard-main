@@ -65,5 +65,5 @@ npm run eject  # Ejects the app config (if needed)
 This project is licensed under the MIT License.
 
 👤 Author
-Abhishek
+Swarnima Shankhdhar
 Made with ❤️ for learning and real-world marketplace dashboard design.
